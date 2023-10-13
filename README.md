@@ -2,5 +2,5 @@
 
 | Tema         | Archivo                 |
 |--------------|-------------------------|
-| Tema 1       | [Nombre.java.md](java_course/Nombre.java) |
+| Tema 1       | [Nombre.java.md](Nombre.java) |
 
