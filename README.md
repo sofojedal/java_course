@@ -14,3 +14,4 @@
 | Tema 11      | [EjemploStringInmutable.java.md](EjemploStringInmutable.java) |
 | Tema 12      | [EjemploStringTestRendimientoConcat.java.md](EjemploStringTestRendimientoConcat.java) |
 | Tema 12      | [EjemploStringValidar.java.md](EjemploStringValidar.java) |
+| Tema 13      | [EjemploStringMetodos.java.md](EjemploStringMetodos.java) |
