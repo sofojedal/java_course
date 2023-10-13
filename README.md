@@ -8,3 +8,4 @@
 | Tema 5       | [PrimitivosCaracteres.java.md](PrimitivosCaracteres.java) |
 | Tema 6       | [PrimitivosBoolean.java.md](PrimitivosBoolean.java) |
 | Tema 7       | [SistemasNumericos.java.md](SistemasNumericos.java) |
+| Tema 8       | [SistemasNumericosEntradaScanner.java.md](SistemasNumericosEntradaScanner.java) |
