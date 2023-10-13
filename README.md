@@ -13,4 +13,4 @@
 | Tema 10      | [EjemploStringConcatenacion.java.md](EjemploStringConcatenacion.java) |
 | Tema 11      | [EjemploStringInmutable.java.md](EjemploStringInmutable.java) |
 | Tema 12      | [EjemploStringTestRendimientoConcat.java.md](EjemploStringTestRendimientoConcat.java) |
-
+| Tema 12      | [EjemploStringValidar.java.md](EjemploStringValidar.java) |
