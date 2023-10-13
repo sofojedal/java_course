@@ -4,5 +4,5 @@
 |--------------|-------------------------|
 | Tema 1       | [Nombre.java.md](Nombre.java) |
 | Tema 2       | [PrimitivosFloat.java.md](PrimitivosFloat.java) |
-| Tema 4       | [PrimitivosCaracteres.java.md](PrimitivosCaracteres.java) |
-| Tema 5       | [archivo3.md](archivo3.md) |
+| Tema 4       | [PrimitivosEnteros.java.md](PrimitivosEnteros.java) |
+| Tema 5       | [PrimitivosECaracteres.java.md](PrimitivosCaracteres.java) |
