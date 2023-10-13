@@ -13,7 +13,7 @@
 | Tema 10      | [EjemploString.java.md](EjemploString.java) |
 | Tema 11      | [EjemploStringConcatenacion.java.md](EjemploStringConcatenacion.java) |
 | Tema 12      | [EjemploStringInmutable.java.md](EjemploStringInmutable.java) |
-| Tema 13      | [EjemploStringTestRendimientoConcat.java.md]
+| Tema 13      | [EjemploStringTestRendimientoConcat.java.md](EjemploStringTestRendimientoConcat.java) |
 | Tema 14      | [EjemploStringValidar.java.md](EjemploStringValidar.java) |
 | Tema 15      | [EjemploStringMetodos.java.md](EjemploStringMetodos.java) |
 | Tema 16      | [EjemploStringMetodosArreglo.java.md](EjemploStringMetodosArreglo.java) |
