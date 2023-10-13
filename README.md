@@ -10,11 +10,10 @@
 | Tema 7       | [SistemasNumericos.java.md](SistemasNumericos.java) |
 | Tema 8       | [SistemaNumericoEntradaScanner.java.md](SistemasNumericosEntradaScanner.java) |
 | Tema 9       | [ConversionDeTipos.java.md](ConversionDeTipos.java) |
-| Tema 10       | [EjemploString.java.md](EjemploString.java) |
+| Tema 10      | [EjemploString.java.md](EjemploString.java) |
 | Tema 11      | [EjemploStringConcatenacion.java.md](EjemploStringConcatenacion.java) |
 | Tema 12      | [EjemploStringInmutable.java.md](EjemploStringInmutable.java) |
-| Tema 13      | [EjemploStringTestRendimientoConcat.java.md](EjemploStringTestRendimientoConcat.java) |
+| Tema 13      | [EjemploStringTestRendimientoConcat.java.md]
 | Tema 14      | [EjemploStringValidar.java.md](EjemploStringValidar.java) |
 | Tema 15      | [EjemploStringMetodos.java.md](EjemploStringMetodos.java) |
-| Tema 15      | [SistemasNumericosEntradaS.java.md](SistemasNumericosEntradaS.java) |
-
+| Tema 16      | [EjemploStringMetodosArreglo.java.md](EjemploStringMetodosArreglo.java) |
