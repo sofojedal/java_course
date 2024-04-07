@@ -33,7 +33,7 @@
 | Tema 30      | [SentenciaIfElse.java.md](SentenciaIfElse.java) |
 | Tema 31      | [SentenciaIfElseNumDiasMes.java.md](SentenciaIfElseNumDiasMes.java) |
 | Tema 32      | [SentenciaSwitchCase.java.md](SentenciaSwitchCase.java) |
-| Tema 33      | [Nombre.java.md](Nombre.java) |
+| Tema 33      | [SentenciaSwitchCaseNumDiasMes.java.md](SentenciaSwitchCaseNumDiasMes.java) |
 | Tema 34      | [Nombre.java.md](Nombre.java) |
 | Tema 35      | [Nombre.java.md](Nombre.java) |
 | Tema 36      | [Nombre.java.md](Nombre.java) |
