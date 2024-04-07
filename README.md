@@ -47,7 +47,7 @@
 | Tema 44      | [PasarPorReferencia.java.md](PasarPorReferencia.java) |
 | Tema 45      | [PasarPorReferencia2.java.md](PasarPorReferencia2.java) |
 | Tema 46      | [PasarPorValor.java.md](PasarPorValor.java) |
-| Tema 47      | [Nombre.java.md](Nombre.java) |
+| Tema 47      | [PrecedenciaOperadores.java.md](PrecedenciaOperadores.java) |
 | Tema 48      | [Nombre.java.md](Nombre.java) |
 | Tema 49      | [Nombre.java.md](Nombre.java) |
 | Tema 50      | [Nombre.java.md](Nombre.java) |
