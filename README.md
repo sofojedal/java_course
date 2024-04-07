@@ -32,7 +32,7 @@
 | Tema 29      | [EjemploMetodoGetClass.java.md](EjemploMetodoGetClass.java) |
 | Tema 30      | [SentenciaIfElse.java.md](SentenciaIfElse.java) |
 | Tema 31      | [SentenciaIfElseNumDiasMes.java.md](SentenciaIfElseNumDiasMes.java) |
-| Tema 32      | [Nombre.java.md](Nombre.java) |
+| Tema 32      | [SentenciaSwitchCase.java.md](SentenciaSwitchCase.java) |
 | Tema 33      | [Nombre.java.md](Nombre.java) |
 | Tema 34      | [Nombre.java.md](Nombre.java) |
 | Tema 35      | [Nombre.java.md](Nombre.java) |
