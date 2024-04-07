@@ -28,7 +28,7 @@
 | Tema 25      | [OperadorInstanceOf.java.md](OperadorInstanceOf.java) |
 | Tema 26      | [OperadorInstanceOfTiposGenericos.java.md](OperadorInstanceOfTiposGenericos.java) |
 | Tema 27      | [OperadorTernario.java.md](OperadorTernario.java) |
-| Tema 28      | [Nombre.java.md](Nombre.java) |
+| Tema 28      | [OperadorTernarioNumeroMayor.java.md](OperadorTernarioNumeroMayor.java) |
 | Tema 29      | [Nombre.java.md](Nombre.java) |
 | Tema 30      | [Nombre.java.md](Nombre.java) |
 | Tema 31      | [Nombre.java.md](Nombre.java) |
