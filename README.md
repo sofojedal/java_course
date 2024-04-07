@@ -29,7 +29,7 @@
 | Tema 26      | [OperadorInstanceOfTiposGenericos.java.md](OperadorInstanceOfTiposGenericos.java) |
 | Tema 27      | [OperadorTernario.java.md](OperadorTernario.java) |
 | Tema 28      | [OperadorTernarioNumeroMayor.java.md](OperadorTernarioNumeroMayor.java) |
-| Tema 29      | [Nombre.java.md](Nombre.java) |
+| Tema 29      | [PasarPorReferencia.java.md](PasarPorReferencia.java) |
 | Tema 30      | [Nombre.java.md](Nombre.java) |
 | Tema 31      | [Nombre.java.md](Nombre.java) |
 | Tema 32      | [Nombre.java.md](Nombre.java) |
