@@ -36,7 +36,7 @@
 | Tema 33      | [SentenciaSwitchCaseNumDiasMes.java.md](SentenciaSwitchCaseNumDiasMes.java) |
 | Tema 34      | [SentenciaWhile.java.md](SentenciaWhile.java) |
 | Tema 35      | [SentenciaFor.java.md](SentenciaFor.java) |
-| Tema 36      | [Nombre.java.md](Nombre.java) |
+| Tema 36      | [SentenciaForArreglo.java.md](SentenciaForArreglo.java) |
 | Tema 37      | [Nombre.java.md](Nombre.java) |
 | Tema 38      | [Nombre.java.md](Nombre.java) |
 | Tema 39      | [Nombre.java.md](Nombre.java) |
