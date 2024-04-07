@@ -53,7 +53,7 @@
 | Tema 49      | [WrapperBoolean.java.md](WrapperBoolean.java) |
 | Tema 50      | [WrapperInteger.java.md](WrapperInteger.java) |
 | Tema 51      | [WrapperOperadoresRelacionales.java.md](WrapperOperadoresRelacionales.java) |
-| Tema 52      | [Nombre.java.md](Nombre.java) |
+| Tema 52      | [Tarea_reportes_notas_alumnos.java.md](Tarea_reportes_notas_alumnos.java) |
 | Tema 53      | [Nombre.java.md](Nombre.java) |
 | Tema 54      | [Nombre.java.md](Nombre.java) |
 | Tema 55      | [Nombre.java.md](Nombre.java) |
