@@ -22,7 +22,7 @@
 | Tema 19      | [OperadoresIncrementales.java.md](OperadoresIncrementales.java) |
 | Tema 20      | [OperadoresLogicos.java.md](OperadoresLogicos.java) |
 | Tema 21      | [OperadoresLogicosLogin.java.md](OperadoresLogicosLogin.java) |
-| Tema 22      | [Nombre.java.md](Nombre.java) |
+| Tema 22      | [OperadoresRelacionales.java.md](OperadoresRelacionales.java) |
 | Tema 23      | [Nombre.java.md](Nombre.java) |
 | Tema 24      | [Nombre.java.md](Nombre.java) |
 | Tema 25      | [Nombre.java.md](Nombre.java) |
