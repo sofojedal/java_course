@@ -26,7 +26,7 @@
 | Tema 23      | [OperadoresUnarios.java.md](OperadoresUnarios.java) |
 | Tema 24      | [Operadoresunarios2.java.md](Operadoresunarios2.java) |
 | Tema 25      | [OperadorInstanceOf.java.md](OperadorInstanceOf.java) |
-| Tema 26      | [Nombre.java.md](Nombre.java) |
+| Tema 26      | [OperadorInstanceOfTiposGenericos.java.md](OperadorInstanceOfTiposGenericos.java) |
 | Tema 27      | [Nombre.java.md](Nombre.java) |
 | Tema 28      | [Nombre.java.md](Nombre.java) |
 | Tema 29      | [Nombre.java.md](Nombre.java) |
