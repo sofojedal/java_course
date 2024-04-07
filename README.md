@@ -38,7 +38,7 @@
 | Tema 35      | [SentenciaFor.java.md](SentenciaFor.java) |
 | Tema 36      | [SentenciaForArreglo.java.md](SentenciaForArreglo.java) |
 | Tema 37      | [SentenciaForEach.java.md](SentenciaForEach.java) |
-| Tema 38      | [Nombre.java.md](Nombre.java) |
+| Tema 38      | [SentenciasBucleEtiquetas.java.md](SentenciasBucleEtiquetas.java) |
 | Tema 39      | [Nombre.java.md](Nombre.java) |
 | Tema 40      | [Nombre.java.md](Nombre.java) |
 | Tema 41      | [Nombre.java.md](Nombre.java) |
