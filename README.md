@@ -19,7 +19,7 @@
 | Tema 16      | [EjemploStringMetodosArreglo.java.md](EjemploStringMetodosArreglo.java) |
 | Tema 17      | [OperadoresAritmeticos.java.md](OperadoresAritmeticos.java) |
 | Tema 18      | [OperadoresAsignacion.java.md](OperadoresAsignacion.java) |
-| Tema 19      | [Nombre.java.md](Nombre.java) |
+| Tema 19      | [OperadoresIncrementales.java.md](OperadoresIncrementales.java) |
 | Tema 20      | [Nombre.java.md](Nombre.java) |
 | Tema 21      | [Nombre.java.md](Nombre.java) |
 | Tema 22      | [Nombre.java.md](Nombre.java) |
