@@ -20,7 +20,7 @@
 | Tema 17      | [OperadoresAritmeticos.java.md](OperadoresAritmeticos.java) |
 | Tema 18      | [OperadoresAsignacion.java.md](OperadoresAsignacion.java) |
 | Tema 19      | [OperadoresIncrementales.java.md](OperadoresIncrementales.java) |
-| Tema 20      | [Nombre.java.md](Nombre.java) |
+| Tema 20      | [OperadoresLogicos.java.md](OperadoresLogicos.java) |
 | Tema 21      | [Nombre.java.md](Nombre.java) |
 | Tema 22      | [Nombre.java.md](Nombre.java) |
 | Tema 23      | [Nombre.java.md](Nombre.java) |
