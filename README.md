@@ -23,7 +23,7 @@
 | Tema 20      | [OperadoresLogicos.java.md](OperadoresLogicos.java) |
 | Tema 21      | [OperadoresLogicosLogin.java.md](OperadoresLogicosLogin.java) |
 | Tema 22      | [OperadoresRelacionales.java.md](OperadoresRelacionales.java) |
-| Tema 23      | [Nombre.java.md](Nombre.java) |
+| Tema 23      | [OperadoresUnarios.java.md](OperadoresUnarios.java) |
 | Tema 24      | [Nombre.java.md](Nombre.java) |
 | Tema 25      | [Nombre.java.md](Nombre.java) |
 | Tema 26      | [Nombre.java.md](Nombre.java) |
