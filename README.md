@@ -51,7 +51,7 @@
 |--------------|--------------------------------|
 | Tema 48      | [AutoBoxingInteger.java.md](AutoBoxingInteger.java) |
 | Tema 49      | [WrapperBoolean.java.md](WrapperBoolean.java) |
-| Tema 50      | [Nombre.java.md](Nombre.java) |
+| Tema 50      | [WrapperInteger.java.md](WrapperInteger.java) |
 | Tema 51      | [Nombre.java.md](Nombre.java) |
 | Tema 52      | [Nombre.java.md](Nombre.java) |
 | Tema 53      | [Nombre.java.md](Nombre.java) |
