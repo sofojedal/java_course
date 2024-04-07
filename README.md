@@ -48,9 +48,9 @@
 | Tema 45      | [PasarPorReferencia2.java.md](PasarPorReferencia2.java) |
 | Tema 46      | [PasarPorValor.java.md](PasarPorValor.java) |
 | Tema 47      | [PrecedenciaOperadores.java.md](PrecedenciaOperadores.java) |
-|--------------|----------------------------------------------------------------|
+|--------------|--------------------------------|
 | Tema 48      | [AutoBoxingInteger.java.md](AutoBoxingInteger.java) |
-| Tema 49      | [Nombre.java.md](Nombre.java) |
+| Tema 49      | [WrapperBoolean.java.md](WrapperBoolean.java) |
 | Tema 50      | [Nombre.java.md](Nombre.java) |
 | Tema 51      | [Nombre.java.md](Nombre.java) |
 | Tema 52      | [Nombre.java.md](Nombre.java) |
