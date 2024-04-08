@@ -71,7 +71,7 @@
 | 3              | [Tarea_ObtenerNombreMasLargo.java.md](Tarea_ObtenerNombreMasLargo.java) |
 | 4              | [Tarea_SistemasEstanqueGasolina.java.md](Tarea_SistemasEstanqueGasolina.java) |
 | 5              | [TareaStringArreglo.java.md](TareaStringArreglo.java) |
-| 6              | [Nombre.java.md](Nombre.java) |
+| 6              | [T_ProgramaCalculoEdad.java.md](T_ProgramaCalculoEdad.java) |
 
 
 
