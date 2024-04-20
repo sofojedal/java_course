@@ -55,7 +55,7 @@
 | Tema 51      | [WrapperOperadoresRelacionales.java.md](WrapperOperadoresRelacionales.java) |
 | Tema 52      | [Tarea_reportes_notas_alumnos.java.md](Tarea_reportes_notas_alumnos.java) |
 | Tema 53      | [EjemploJavaUtilDateParse.java.md](EjemploJavaUtilDateParse.java) |
-| Tema 54      | [Nombre.java.md](Nombre.java) |
+| Tema 54      | [EjemploPropiedadesDeSistema.java.md](EjemploPropiedadesDeSistema.java) |
 | Tema 55      | [Nombre.java.md](Nombre.java) |
 | Tema 56      | [Nombre.java.md](Nombre.java) |
 
