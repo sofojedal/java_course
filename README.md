@@ -59,9 +59,10 @@
 | Tema 55      | [EjemploAsignarPropiedadesDelSistema.java.md](EjemploAsignarPropiedadesDelSistema.java) |
 | Tema 57      | [EjemploVariablesDeEntorno.java.md](EjemploVariablesDeEntorno.java) |
 | Tema 58      | [EjemploClaseMath.java.md](EjemploClaseMath.java) |
+| Tema 59      | [EjemploClaseMathRandom.java.md](EjemploClaseMathRandom.java) |
 
 
-| Tema 59      | [Nombre.java.md](Nombre.java) |
+
 | Tema 60      | [Nombre.java.md](Nombre.java) |
 | Tema 61      | [Nombre.java.md](Nombre.java) |
 | Tema 62      | [Nombre.java.md](Nombre.java) |
