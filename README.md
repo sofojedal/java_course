@@ -61,7 +61,7 @@
 | Tema 58      | [EjemploClaseMath.java.md](EjemploClaseMath.java) |
 | Tema 59      | [EjemploClaseMathRandom.java.md](EjemploClaseMathRandom.java) |
 | Tema 60      | [TareaTemarandom.java.md](TareaTemarandom.java) |
-| Tema 61      | [Nombre.java.md](Nombre.java) |
+| Tema 61      | [EjemploProfesor.java.md](EjemploProfesor.java) |
 
 
 | Tema 62      | [Nombre.java.md](Nombre.java) |
