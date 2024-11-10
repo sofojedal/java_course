@@ -67,9 +67,7 @@
 | Tema 64      | [EjemploArreglosFor.java.md](EjemploArreglosFor.java) |
 | Tema 65      | [EjemploArreglosForInverso.java.md](EjemploArreglosForInverso.java) |
 | Tema 66      | [EjemploArreglosForInversoMutable.java.md](EjemploArreglosForInversoMutable.java) |
-
-
-| Tema 67      | [Nombre.java.md](Nombre.java) |
+| Tema 67      | [EjemploArreglosForInversoMutable2.java.md](EjemploArreglosForInversoMutable2.java) |
 | Tema 68      | [Nombre.java.md](Nombre.java) |
 | Tema 69      | [Nombre.java.md](Nombre.java) |
 | Tema 70      | [Nombre.java.md](Nombre.java) |
