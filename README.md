@@ -70,7 +70,7 @@
 | Tema 67      | [EjemploArreglosForInversoMutable2.java.md](EjemploArreglosForInversoMutable2.java) |
 | Tema 68      | [EjemploArreglosForOrdenamientoBurbuja.java.md](EjemploArreglosForOrdenamientoBurbuja.java) |
 | Tema 69      | [EjemploArreglosForOrdenamientoBurbuja2.java.md](EjemploArreglosForOrdenamientoBurbuja2.java) |
-| Tema 70      | [Nombre.java.md](Nombre.java) |
+| Tema 70      | [EjemploArreglosForOrdenamientoBurbuja3.java.md](EjemploArreglosForOrdenamientoBurbuja3.java) |
 | Tema 71      | [Nombre.java.md](Nombre.java) |
 | Tema 72      | [Nombre.java.md](Nombre.java) |
 | Tema 73      | [Nombre.java.md](Nombre.java) |
