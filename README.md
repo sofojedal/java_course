@@ -74,7 +74,7 @@
 | Tema 71      | [EjemploArreglosOrdenPrincipioFinal.java.md](EjemploArreglosOrdenPrincipioFinal.java) |
 | Tema 72      | [EjemploArreglosCombinados.java.md](EjemploArreglosCombinados.java) |
 | Tema 73      | [EjemploArreglosCombinados2.java.md](EjemploArreglosCombinados2.java) |
-| Tema 74      | [Nombre.java.md](Nombre.java) |
+| Tema 74      | [EjemploArreglosNumMayor.java.md](EjemploArreglosNumMayor.java) |
 | Tema 75      | [Nombre.java.md](Nombre.java) |
 | Tema 76      | [Nombre.java.md](Nombre.java) |
 | Tema 77      | [Nombre.java.md](Nombre.java) |
