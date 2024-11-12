@@ -72,7 +72,7 @@
 | Tema 69      | [EjemploArreglosForOrdenamientoBurbuja2.java.md](EjemploArreglosForOrdenamientoBurbuja2.java) |
 | Tema 70      | [EjemploArreglosForOrdenamientoBurbuja3.java.md](EjemploArreglosForOrdenamientoBurbuja3.java) |
 | Tema 71      | [EjemploArreglosOrdenPrincipioFinal.java.md](EjemploArreglosOrdenPrincipioFinal.java) |
-| Tema 72      | [Nombre.java.md](Nombre.java) |
+| Tema 72      | [EjemploArreglosCombinados.java.md](EjemploArreglosCombinados.java) |
 | Tema 73      | [Nombre.java.md](Nombre.java) |
 | Tema 74      | [Nombre.java.md](Nombre.java) |
 | Tema 75      | [Nombre.java.md](Nombre.java) |
