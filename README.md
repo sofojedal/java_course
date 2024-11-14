@@ -76,7 +76,7 @@
 | Tema 73      | [EjemploArreglosCombinados2.java.md](EjemploArreglosCombinados2.java) |
 | Tema 74      | [EjemploArreglosNumMayor.java.md](EjemploArreglosNumMayor.java) |
 | Tema 75      | [EjemploArreglosDetectarOrden.java.md](EjemploArreglosDetectarOrden.java) |
-| Tema 76      | [Nombre.java.md](Nombre.java) |
+| Tema 76      | [EjemploArreglosParesImpares.java.md](EjemploArreglosParesImpares.java) |
 | Tema 77      | [Nombre.java.md](Nombre.java) |
 | Tema 78      | [Nombre.java.md](Nombre.java) |
 | Tema 79      | [Nombre.java.md](Nombre.java) |
