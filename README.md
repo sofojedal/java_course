@@ -78,7 +78,7 @@
 | Tema 75      | [EjemploArreglosDetectarOrden.java.md](EjemploArreglosDetectarOrden.java) |
 | Tema 76      | [EjemploArreglosParesImpares.java.md](EjemploArreglosParesImpares.java) |
 | Tema 77      | [EjemploArregloNotasAlumnos.java.md](EjemploArregloNotasAlumnos.java) |
-| Tema 78      | [Nombre.java.md](Nombre.java) |
+| Tema 78      | [EjemploArregloBuscarNumero.java.md](EjemploArregloBuscarNumero.java) |
 | Tema 79      | [Nombre.java.md](Nombre.java) |
 | Tema 80      | [Nombre.java.md](Nombre.java) |
 | Tema 81      | [Nombre.java.md](Nombre.java) |
