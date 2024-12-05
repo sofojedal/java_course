@@ -80,7 +80,7 @@
 | Tema 77      | [EjemploArregloNotasAlumnos.java.md](EjemploArregloNotasAlumnos.java) |
 | Tema 78      | [EjemploArregloBuscarNumero.java.md](EjemploArregloBuscarNumero.java) |
 | Tema 79      | [EjemploArregloBuscarString.java.md](EjemploArregloBuscarString.java) |
-| Tema 80      | [Nombre.java.md](Nombre.java) |
+| Tema 80      | [EjemploArreglosDesplazarPosicion.java.md](EjemploArreglosDesplazarPosicion.java) |
 | Tema 81      | [Nombre.java.md](Nombre.java) |
 | Tema 82      | [Nombre.java.md](Nombre.java) |
 | Tema 83      | [Nombre.java.md](Nombre.java) |
