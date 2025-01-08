@@ -82,7 +82,7 @@
 | Tema 79      | [EjemploArregloBuscarString.java.md](EjemploArregloBuscarString.java) |
 | Tema 80      | [EjemploArreglosDesplazarPosicion.java.md](EjemploArreglosDesplazarPosicion.java) |
 | Tema 81      | [EjemploArreglosDesplazarPosicion2.java.md](EjemploArreglosDesplazarPosicion2.java) |
-| Tema 82      | [Nombre.java.md](Nombre.java) |
+| Tema 82      | [EjemploArreglosDesplazarPosicion3.java.md](EjemploArreglosDesplazarPosicion3.java) |
 | Tema 83      | [Nombre.java.md](Nombre.java) |
 | Tema 84      | [Nombre.java.md](Nombre.java) |
 | Tema 85      | [Nombre.java.md](Nombre.java) |
