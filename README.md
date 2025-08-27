@@ -84,7 +84,7 @@
 | Tema 81      | [EjemploArreglosDesplazarPosicion2.java.md](EjemploArreglosDesplazarPosicion2.java) |
 | Tema 82      | [EjemploArreglosDesplazarPosicion3.java.md](EjemploArreglosDesplazarPosicion3.java) |
 | Tema 83      | [EjemploArregloEliminarElemento.java.md](EjemploArregloEliminarElemento.java) |
-| Tema 84      | [Nombre.java.md](Nombre.java) |
+| Tema 84      | [EjemploArreglosDesplazarPosicion2b.java.md](EjemploArreglosDesplazarPosicion2b.java) |
 | Tema 85      | [Nombre.java.md](Nombre.java) |
 | Tema 86      | [Nombre.java.md](Nombre.java) |
 | Tema 87      | [Nombre.java.md](Nombre.java) |
